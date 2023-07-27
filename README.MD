@@ -7,8 +7,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 <h3 align="left">DevOps Tools</h3>
+
+<p align="left"> 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
